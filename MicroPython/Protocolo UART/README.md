@@ -1,4 +1,5 @@
-# Utilização do protocolo UART ESP32
+<h1 align="center">Utilização do protocolo UART ESP32</h1>
+
 - Para envio de dados via serial, o microcontrolador ESP32 devera estar conectado há uma porta USB no dispositivo mestre, utilizando um conversor Serial.
 
 - O código de envio de dados deve ser iniciado em uma IDE para melhor visualização.
