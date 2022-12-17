@@ -1,2 +1,2 @@
-# ESP-NOW_MicroPython
-Envio de dados utilizando a rede ESP-NOW em MicroPython
+# ESP32
+Demonstrações de alguns códigos e aplicações especificas utilizando o chip ESP32
