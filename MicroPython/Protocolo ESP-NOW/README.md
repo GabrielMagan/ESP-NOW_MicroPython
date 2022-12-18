@@ -6,7 +6,7 @@
 - Para a utilização do protocolo ESP-NOW é necessário o download da biblioteca “ESP” em sua IDE.
 
 ### 📋(Sobre)📋
-- O protocolo de rede ESP-NOW cria uma rede 2.4 GHZ sem necessidade de WIFI, essa rede poder ser utilizada até 500m em campo aberto.
+- O protocolo de rede ESP-NOW cria uma rede 2.4 GHz sem necessidade de WIFI, essa rede poder ser utilizada até 500m em campo aberto.
 - Esse protocolo permite a comunicação entre inúmeros ESP32, podendo ser utilizada em diversos projetos.
 - Além de ter vários canais de comunicação a rede ESP-NOW é P2P(peer-to-peer), assim criando uma comunicação quase instantânea.
 <div>
