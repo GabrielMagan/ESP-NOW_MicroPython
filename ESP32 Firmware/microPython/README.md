@@ -12,9 +12,25 @@
 
 - Para atualização de firmware será necessário seguir os seguintes passos:
 
-Thonny ➞ Ferramentas ➞ selecione a porta COM ➞ "install or update Mcropython" ➞ selecionar o arquivo .bin ➞ iniciar o download do firmware.
+Thonny ➞ Ferramentas ➞ selecione a porta COM ➞ "install or update MicroPython" ➞ selecionar o arquivo .bin ➞ iniciar o download do firmware.
 - Alguns dispositivos requerem que o botão de boot esteja pressionado durante a alteração de firmware
 
 <div align="center">
 <img align="center" alt="mgn-python" height="500" width="900" src="https://user-images.githubusercontent.com/111460258/208281512-abf744d8-2e59-4ec9-b609-6e438e61a2c4.png"
-</div>  hgh i
+</div>
+
+
+<div align = center>
+         
+<br>
+<br>
+
+[<kbd> <br> Download Thonny <br> </kbd>][KBD]
+</div>
+
+<br>
+<br>
+
+<!---------------------------------------------------------------------------->
+
+[KBD]: https://thonny.org/
