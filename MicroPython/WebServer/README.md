@@ -41,7 +41,7 @@ sta = network.WLAN(network.STA_IF)
 if not sta.isconnected():
     print('conectando com a internet...')
     sta.active(True)
-    sta.connect(nome, senha)                          # Aplicando as variaveis de nome e senha da rede
+    sta.connect(nome, senha)                         # Aplicando as variaveis de nome e senha da rede
     while not sta.isconnected():
         pass
 ........
