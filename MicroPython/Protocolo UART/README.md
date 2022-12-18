@@ -23,7 +23,7 @@
 
 ### 💻(Desktop)💻
 
-- O código ("ESP32_UART_TX.py") de envio de dados deve ser iniciado em uma IDE (Pycharm [ <img align="center" alt="mgn-pycharm" height="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"> ] , VS Code [ <img align="center" alt="mgn-vscode" height="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> ] etc...), para melhor visualização.
+- O código ("ESP32_UART_TX.py") de envio de dados deve ser iniciado em uma IDE (Pycharm [ <img align="center" alt="mgn-pycharm" height="10" width="10" src="https://user-images.githubusercontent.com/111460258/208281981-1b50ef97-1792-44a5-8923-1e421b630851.png"> ] , VS Code [ <img align="center" alt="mgn-vscode" height="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> ] etc...), para melhor visualização.
 
 
 <h4 align="center">
