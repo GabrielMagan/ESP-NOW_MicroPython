@@ -13,7 +13,7 @@ import time
 from esp import espnow
 # ************************************************
 
-# *******************variaveis********************
+# ****************** variaveis *******************
 rede = network.WLAN(network.AP_IF)
 end_mac_brod = b'\xff\xff\xff\xff\xff\xff'
 dados = 0
