@@ -38,7 +38,7 @@ Thonny ➞ Ferramentas ➞ selecione a porta COM ➞ "install or update MicroPyt
 </div>
 
 
-<h3><img align="center" alt="mgn-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">(Arduino IDE)<img align="center" alt="mgn-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></h3>
+<h3><img align="center" alt="mgn-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> (Arduino IDE) <img align="center" alt="mgn-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></h3>
 
 - Para atualização de firmware C++ é necessario utilizar o Arduino IDE, sendo assim só necessario fazer o upload de um codigo em C++ para a alteração automatica de firmware.
 - Em casos de erros, há uma opção de gravação de firmware no proprio Arduino: 
