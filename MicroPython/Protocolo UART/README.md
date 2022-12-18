@@ -55,7 +55,7 @@ while True:
 <img align="center" alt="mgn-Csharp" height="20" width="20" src="https://user-images.githubusercontent.com/111460258/208280422-7e2c7c7b-0557-4fc6-a014-bac13ad349f5.png"> (Board) <img align="center" alt="mgn-Csharp" height="20" width="20" src="https://user-images.githubusercontent.com/111460258/208280422-7e2c7c7b-0557-4fc6-a014-bac13ad349f5.png"></h3>
 
 - Para receber os dados via UART, precisamos habilitar a comunição serial no ESP32.
-- Séra necessario alterar o nome do arquivo de "ESP32_UART_RX.py" ----> "main.py"
+- Séra necessario alterar o nome do arquivo de "ESP32_UART_RX.py" ➞ "main.py"
 
 <h4 align="center">
 <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> main.py <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></h4>
