@@ -12,7 +12,7 @@
 <h3>
 <img align="center" alt="mgn-Csharp" height="20" width="20" src="https://user-images.githubusercontent.com/111460258/208280595-2b3bf5fb-46b6-4f87-a27c-633c0e251188.png"> (Device) <img align="center" alt="mgn-Csharp" height="20" width="20" src="https://user-images.githubusercontent.com/111460258/208280595-2b3bf5fb-46b6-4f87-a27c-633c0e251188.png"></h3>
 
-- Há diversos dispositivos de conversão serial no mercado, porem o utilizado para esse projeto foi o "Rs232 Ttl Pl2303hx".
+- Há diversos dispositivos de conversão serial no mercado porém, o utilizado para esse projeto foi o "Rs232 Ttl Pl2303hx".
 
 
 <h1 align="center">
