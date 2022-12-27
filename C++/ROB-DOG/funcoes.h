@@ -290,7 +290,7 @@ void relogio_real(){
       display1.setCursor(92, 53);
       display1.println(F(" C"));
 
- //----------------------------------------------------------------------------------------------------------   display 2   --------------------------------------------------------------------------------------------------------------------------------------------- eu tinhamo mt meu amor sei q vc um dia vai ler isso ent vc é o amor da minha vida e eu to aq bebendo e triste pq estamos brigados pq fiz merda, espero que qnd vc estiver lendo isso nos vamos estar bem e mtttttt feliz KKKKKKKKKKK 03/09/2022 a data pra recordacao
+ //----------------------------------------------------------------------------------------------------------   display 2   --------------------------------------------------------------------------------------------------------------------------------------------- 
       if (now.day() <10){
         display2.setCursor(25, 10);
         display2.println(F("0"));
